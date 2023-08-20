@@ -1,4 +1,4 @@
-# Adaptive-Cruise-Control-and-Vision-based-Lane-Detection-of-NVIDIA-JetBot
+# Adaptive Cruise Control and Vision based Lane Detection using NVIDIA JetBot
 
 ECE 536 Team JetBot - 1
 
