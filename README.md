@@ -1,9 +1,6 @@
 # Adaptive Cruise Control and Vision based Lane Detection using NVIDIA JetBot
 
-ECE 536 Team JetBot - 1
-
-There are 3 Python Notebooks submitted.
-
+There are 3 Python Notebooks required.
 
 1. Data Collection -->
 
